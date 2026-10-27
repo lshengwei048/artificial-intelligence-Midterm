@@ -424,13 +424,13 @@ os.makedirs("/content/data", exist_ok=True)
 
 ## 十二、結論與心得
 
-透過這次 Google Colab 的實作，我對雲端 Python 開發環境有更進一步的認識。
+透過這次 Google Colab 的實作，我們對雲端 Python 開發環境有更進一步的認識。
 
 原本要執行人工智慧相關程式，可能需要在電腦上安裝 Python、TensorFlow 等套件，還要考慮電腦的硬體效能。
 
 使用 Google Colab 後，可以直接透過瀏覽器執行 Python，也能依照資源狀況使用 Google 提供的 GPU。
 
-在這次操作中，我學習了如何連接 Google Drive、查看 GPU 與 CPU 資訊、安裝 Python 套件，以及使用 Linux 指令管理檔案。
+在這次操作中，我們學習了如何連接 Google Drive、查看 GPU 與 CPU 資訊、安裝 Python 套件，以及使用 Linux 指令管理檔案。
 
 另外，也了解如何透過 GitHub 下載程式碼，以及使用 wget 下載資料。
 
